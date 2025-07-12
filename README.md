@@ -1,7 +1,5 @@
 # DBMS-University-Course-Registration-System-Project
 
-# University Course Registration System
-
 It is an educational project for university course registration system with a web-based UI for managing the course registration in a university. It allows users to view data, modify and insert in a database management system using raw sql commands.
 
 ## Tech Stack
